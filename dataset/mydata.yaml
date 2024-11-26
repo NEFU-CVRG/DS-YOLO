@@ -1,0 +1,11 @@
+# dataset path
+path: G:/work/ultralytics
+train: ./dataset/train/images
+val: ./dataset/val/images
+test: ./dataset/val/images
+
+# number of classes
+nc: 4
+
+# class names
+names: ['yashang', 'duanjiao', 'yijiao', 'qiupian']
