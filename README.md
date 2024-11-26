@@ -14,6 +14,7 @@ pip install -r `requirements.txt`
 # Other
 
 We have placed the improved module in `ultralytics\nn\extra_modules\block.py` for the readers' reference.
+And we provide a link to the code used in the comparison experiment.
 
 The source code reference link is as follows:
 
