@@ -3,6 +3,8 @@ DS-YOLO’s detailed open-source code
 # Install
 Click to enter the folder, use the CMD command, and enter the following command in the command line window:
 
+input `conda create --name DS-YOLO python=3.8`
+activation environment  `conda activate DS-YOLO`
 pip install -r `requirements.txt`
 
 # Usage
