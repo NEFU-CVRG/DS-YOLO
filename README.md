@@ -22,3 +22,10 @@ The source code reference link is as follows:
 - [PyTorch-Deformable-Convolution-v2](https://github.com/developer0hye/PyTorch-Deformable-Convolution-v2)
 - [YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2)
 
+# Acknowledgement
+We sincerely thank [yolo](https://github.com/ultralytics/ultralytics), [mmdetection](https://github.com/open-mmlab/mmdetection),and [stable diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+ for providing their wonderful code to the community!
+
+# Licence
+
+DS-YOLO is under the GPL-v3 Licence and is supported for commercial usage. If you need a commercial license for DS-YOLO, please feel free to contact us.
